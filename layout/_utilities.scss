@@ -1,0 +1,60 @@
+/* -------------------------------------
+ * Utilities classes
+ * These are examples of utilities classes
+ * Feel free to change them and create your own
+ * ------------------------------------- */
+
+// Paddings
+.padded {
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+
+.padded-top {
+  padding-top: 50px;
+ }
+
+.padded-bottom {
+  padding-bottom: 50px;
+}
+
+//Spacings
+.spaced-bottom {
+  margin-bottom: 10px;
+}
+
+.spacer {
+  height: 60px;
+}
+
+
+// Backgrounds
+.bg-black {
+  background: #4a4a4a;
+}
+.bg-grey {
+  background: #aeaeae;
+}
+.bg-blue {
+  background: #00a3e1;
+}
+.bg-dark-blue {
+  background: #3b5998;
+}
+
+// Wrappers
+ .page-wrapper {
+  max-width: 1080px;
+  margin: 0 auto;
+ }
+
+ .signup-wrapper {
+  max-width: 410px;
+  padding: 10px 20px 20px 20px;
+  text-align: center;
+  margin-top: 50px !important;
+  margin: 0 auto;
+  background: #FFF;
+  border-radius: 3px;
+  box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+ }

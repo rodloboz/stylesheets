@@ -1,0 +1,33 @@
+/* -------------------------------------
+ * CSS code specific to home page
+ * (margin/padding adjustments)
+ * ------------------------------------- */
+
+body {
+  margin: 0;
+  font-family: $base-font;
+  font-size: $base-size;
+  line-height: $base-height;
+  color: $text-dark;
+  background-color: #FFF;
+}
+
+h1, h2, h3 {
+  font-family: $header-font;
+  margin-bottom: 15px;
+}
+
+h2{
+  font-size: 27px;
+  font-weight: lighter;
+}
+
+h3{
+  font-size: 22px;
+  font-weight: lighter;
+}
+
+h4 {
+  font-family: $header-font;
+  font-size: 23px;
+}
