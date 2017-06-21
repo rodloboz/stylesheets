@@ -1,4 +1,4 @@
-These stylesheets are based on [Le Wagon Rails StyleSheets](https://github.com/lewagon/rails-stylesheets
+These stylesheets are based on [Le Wagon's Rails StyleSheets](https://github.com/lewagon/rails-stylesheets)
 
 ## Setup
 
