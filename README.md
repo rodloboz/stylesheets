@@ -1,3 +1,5 @@
+These stylesheets are based on [Le Wagon Rails StyleSheets](https://github.com/lewagon/rails-stylesheets
+
 ## Setup
 
 Ensure you have the following gems in your Rails `Gemfile`
@@ -55,6 +57,7 @@ Look at your main `application.scss` file to see how SCSS files are imported.
 // Graphical variables
 @import "config/variables";
 @import "config/bootstrap_variables";
+@import "config/mixins";
 
 // External libraries
 @import "bootstrap";
